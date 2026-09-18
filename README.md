@@ -20,8 +20,8 @@ Built from the upstream release tarball with `CGO_*` flags and `-buildmode=pie
 ## Building & installing
 
 ```bash
-git clone https://github.com/FoxKyong/speedtest-go.git
-cd speedtest-go
+git clone https://github.com/FoxKyong/aur-speedtest-go.git
+cd aur-speedtest-go
 makepkg -si
 ```
 
